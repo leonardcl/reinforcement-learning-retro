@@ -20,3 +20,5 @@ The experiment result video uploaded on YouTube:
 -	Super Mario Bros - A2C: https://youtu.be/nQbJq5mosaQ
 -	Felix The Cat - DQN: https://youtu.be/0Xd5TEFk4GU
 
+This code is based on this repository:
+https://github.com/deepanshut041/Reinforcement-Learning/tree/master/cgames/06_sonic2
