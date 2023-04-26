@@ -4,7 +4,7 @@ Experiment on Super Mario Bros and Felix The Cat game using DQN and A2C
 ## How to Run
 1. Download this repository
 2. Import the ROM by running ``` python3 -m retro.import .```
-3. If you wnat to run testing on the agent you can follow this:
+3. If you want to run testing on the agent you can follow this:
     <br />Super Mario Bros - DQN<br />
     ```python rl.py --load_model True --model_name mario-ep-700_policy_net,mario-ep-700_target_net```
     <br />Super Mario Bros - A2C<br />
